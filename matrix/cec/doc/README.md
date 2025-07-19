@@ -4,7 +4,7 @@ The concept is a sophisticated, local-first security and process management suit
 
 Here is the generated `README.md`.
 
-<img src="../image/logon.jpeg">
+<img src="../image/logon.jpeg" width="512" height="312"> 
 
 ---
 
